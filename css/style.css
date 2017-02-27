@@ -1,0 +1,39 @@
+/* style du corps de la page */
+body{
+  background-image: url(../img/background/background4.jpg);
+  margin: 5%;
+  background-color: gray;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 120%;
+}
+
+h1{
+  font-style: italic;
+  color: black;
+}
+
+/* style du contenu du corps de la page */
+.container{
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 2%;
+    box-shadow: 8px 8px 8px #aaa;
+    background-color: whitesmoke;
+    padding: 5%;
+}
+
+/* style de la photo */
+.photo{
+  float: right;
+  margin-top: -3%;
+  margin-right: 3%;
+  width:250px;
+  height:300px;
+  border-radius: 5%;
+  box-shadow: 8px 8px 8px #aaa;
+}
+
+.text{
+  margin-top: 5%;
+
+}
